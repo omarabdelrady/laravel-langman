@@ -1,8 +1,8 @@
 {
-    "name": "abdohadi/laravel-langman",
+    "name": "omarabdelrady/laravel-langman",
     "description": "Manage language files with ease.",
     "keywords": ["laravel", "localization", "multilingual"],
-    "homepage": "https://github.com/abdohadi/laravel-langman",
+    "homepage": "https://github.com/omarabdelrady/laravel-langman",
     "license": "MIT",
     "authors": [
         {
