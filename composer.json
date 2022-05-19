@@ -14,7 +14,7 @@
     "require": {
         "php": "^7.1",
         "illuminate/support": "^5.1",
-        "illuminate/console": "65.1",
+        "illuminate/console": "^5.1",
         "illuminate/filesystem": "^5.1"
     },
     "require-dev": {
